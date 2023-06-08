@@ -1,0 +1,25 @@
+{
+  "name": "casambi-sdk",
+  "version": "0.0.1",
+  "description": "A SDK for the Casambi Cloud Service API and WebSocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liammcintosh97/casambi-sdk.git"
+  },
+  "keywords": [
+    "API",
+    "Websocket",
+    "Casambi",
+    "SDK"
+  ],
+  "author": "Liam Alton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liammcintosh97/casambi-sdk/issues"
+  },
+  "homepage": "https://github.com/liammcintosh97/casambi-sdk#readme"
+}
